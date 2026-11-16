@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Telegram Relay & White-Label Engine",
+  "description": "Enterprise-Grade Telegram Relay Bot, Dual-Account MTProto Orchestrator, Anti-Leakage Firewall, Canonical AST Parser & White-Label Transformation Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
